@@ -16,6 +16,9 @@ h1{
 h2{
     font-size: 40px;
 }
+p{
+    color: dimgray;
+}
 .orrange-highlight{
     color: orange;
 }
