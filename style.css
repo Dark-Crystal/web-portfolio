@@ -29,9 +29,10 @@ p{
     padding-left: 2%;
 }
 .hsec img{
-    width: 80%;
+    width: 100%;
 }
 .welcome{
+    padding: 100px;
     background-image: url("image/top-banner.png");
     background-repeat: no-repeat;
 }
